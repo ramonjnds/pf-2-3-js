@@ -26,6 +26,8 @@ Escribir un programa con las siguientes características
 4. Remplazar los números que sean múltiplos de 5 por la palabra Buzz.
 5. Remplazar los números que sean múltiplos de 3 y 5 por la palabra FizzBuzz.
 
+
+
 Ejemplo de Salida
 
 1
@@ -57,6 +59,19 @@ Fizz
 14
 
 FizzBuzz
+
+### ¿Dondé va tu código?
+
+Tú código debe de ir en el archizo llamado fizzbuzz.js
+
+Dentro de la funcion llamada fizzbuzz.
+
+Este archivo esta en la carpeta llamada src.
+
+**Importante⚠️**
+
+Solo debes modificar esta archivo para el correcto funcionamiento de todo.
+
 
 
 ## Test
