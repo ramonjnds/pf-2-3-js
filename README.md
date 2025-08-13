@@ -70,7 +70,7 @@ Este archivo esta en la carpeta llamada src.
 
 **Importante⚠️**
 
-Solo debes modificar esta archivo para el correcto funcionamiento de todo.
+Solo debes modificar este archivo para el correcto funcionamiento de todo.
 
 
 
