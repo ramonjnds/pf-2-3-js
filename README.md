@@ -15,6 +15,10 @@
 ```bash
   npm install
 ```
+5. Correr el servidor para ver los cambios del código
+   ```bash
+     npm run dev
+   ```
 
 ## Instrucciones
 
